@@ -1,3 +1,3 @@
 # gender
-any/all
-nonbinary shapeshifter
+
+any/all nonbinary shapeshifter
