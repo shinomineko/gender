@@ -1,3 +1,3 @@
 # gender
 
-any pronouns nonbinary shapeshifter
+any/all pronouns nonbinary shapeshifter
